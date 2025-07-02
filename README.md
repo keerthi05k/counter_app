@@ -21,14 +21,7 @@ It allows the user to increase, decrease, and reset the counter value.
 - HTML
 - CSS
 - JavaScript (DOM)
-
----
-
-## 📸 Screenshot
-
-> Add a screenshot if you want. Example:
-`![Screenshot](./screenshot.png)`
-
+  
 ---
 
 ## 🧪 How to Use
