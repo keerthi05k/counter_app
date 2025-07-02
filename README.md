@@ -41,7 +41,7 @@ It allows the user to increase, decrease, and reset the counter value.
 
 ## 🙋‍♀️ Author
 
-Made with 💜 by [Keerthana](https://github.com/your-github-username)
+Made with 💜 by [Keerthana](https://github.com/keerthi05k/counter_app)
 
 ---
 
